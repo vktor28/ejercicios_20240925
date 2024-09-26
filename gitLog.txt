@@ -1,12 +1,4 @@
-MacBook-Air-de-victor:20240926 digital$ git log
-commit b0ed0fa4c0ac22b3497e4a519966a55d824af79c (HEAD -> master, origin/master)
-Author: vktor28 <v_bcn@hotmail.com>
-Date:   Thu Sep 26 19:05:20 2024 +0200
-
-    segundo commit
-
-commit 8122075f6942f0ef7d051fb8e417fa6e090aaee3
-Author: vktor28 <v_bcn@hotmail.com>
-Date:   Thu Sep 26 18:36:22 2024 +0200
-
-    2 signos admiración..
+MacBook-Air-de-victor:20240926 digital$ git log --oneline
+b0ed0fa (HEAD -> master, origin/master) segundo commit
+8122075 2 signos admiración..
+MacBook-Air-de-victor:20240926 digital$ 
